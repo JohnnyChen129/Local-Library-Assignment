@@ -3,6 +3,9 @@ local library assignment
 Learning objectives
 This project is designed to test your ability to work with large datasets and build algorithms based on those datasets. You will not need to make any edits to HTML or CSS for this project. Before taking on this project, you should be comfortable with the learning objectives listed below:
 
+![plot](./images/LocalLibrary.png)
+
+
 Using Visual Studio Code as a text editor
 
 Differentiating between the three most common JavaScript error types
