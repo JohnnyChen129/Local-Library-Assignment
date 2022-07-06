@@ -5,7 +5,8 @@ This project is designed to test your ability to work with large datasets and bu
 
 ![plot](./images/LocalLibrary.png)
 
-
+Local Library assinment displays books in genres, authors, and titles.
+administrators can search users and see who has what book.
 Using Visual Studio Code as a text editor
 
 Differentiating between the three most common JavaScript error types
